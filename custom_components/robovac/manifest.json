@@ -2,8 +2,9 @@
   "domain": "robovac",
   "name": "Robovac (patched for L60)",
   "version": "2025.12.05",
-  "documentation": "https://github.com/your-repo/robovac",
+  "documentation": "https://github.com/gkutyi/robovac",
   "requirements": [],
+  "config_flow": true,
   "dependencies": [],
   "codeowners": ["@your-github-username"]
 }

@@ -84,6 +84,3 @@ custom_components/robovac/
 ## Disclaimer
 
 This project is maintained by the community and is not affiliated with Anker/Eufy.
-
-
-

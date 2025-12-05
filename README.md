@@ -74,10 +74,15 @@ Reason: L60 uses **Eufy Clean Cloud API**, not Tuya Local.
 custom_components/robovac/
 
 │── init.py
+
 │── manifest.json
+
 │── config_flow.py
+
 │── const.py
+
 │── sensor.py
+
 └── coordinator.py
 
 ---

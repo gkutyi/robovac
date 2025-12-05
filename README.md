@@ -14,7 +14,7 @@ This is a **patched & simplified Robovac integration**, updated to support:
 
 1. Open **HACS → Integrations**
 2. Click **⋮ → Custom repositories**
-3. Add: https://github.com/USERNAME/robovac
+3. Add: https://github.com/gkutyi/robovac
 4. Category: **Integration**
 5. Install & restart Home Assistant
 6. Add integration: **Settings → Devices → Add Integration → Robovac**
